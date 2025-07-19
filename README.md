@@ -11,4 +11,5 @@
 1) 주최 측에서 지정한 센서를 차량에 설치하여 차량 주행에 필요한 인식 값을 얻도록 센서 위치를 결정한다.
 2) 센서 인식 값을 사람의 개입 없이 차량 스스로 위치를 인지하고 제어하는 차량 시스템을 설계한다.
 ---  
-### Hardware Architecture
+### Hardware Architecture  
+<img width="389" height="195" alt="Image" src="https://github.com/user-attachments/assets/a5c05f58-4e45-4e7f-b522-e4ccf926fada" />
