@@ -16,4 +16,4 @@
 <img width="459" height="263" alt="Image" src="https://github.com/user-attachments/assets/64d7aed9-fb4f-4e66-b12f-aa4fd94c9669" />  
 
 ### Software Architecture  
-<img width="356" height="188" alt="Image" src="https://github.com/user-attachments/assets/fd6a7736-76c7-4eed-8843-57524fc1c5e1" />  
+<img width="361" height="196" alt="Image" src="https://github.com/user-attachments/assets/a076f86d-dd8b-4177-bc85-7a022777ff40" />
