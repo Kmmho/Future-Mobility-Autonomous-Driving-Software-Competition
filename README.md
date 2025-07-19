@@ -27,6 +27,7 @@
 ### [Algorithm]  
 ### 1️⃣ **차선 주행 알고리즘**  
 <img width="261" height="229" alt="Image" src="https://github.com/user-attachments/assets/02ffbc6e-f1fa-47be-a743-e4b12fa9f268" />  
+
 차선 인식을 위해 영상을 전처리하여, ROI 이미지를 추출한 뒤 top-down view로 전환한다.  
 이후 영상을 이진화하고, 이진화된 영상을 바탕으로 개발한 차선 인식 알고리즘을 수행하여 차선의 위치를 검출한다.  
 차선을 찾게 되면 2차 곡선을 그려 넣고, 찾지 못하면 Lane_not_found 모드로 동작하게 한다. 이후 Kalman Filter를 적용하여  
@@ -34,6 +35,7 @@
 
 ### 2️⃣ **장애물 및 신호등 인식 알고리즘**    
 <img width="204" height="231" alt="Image" src="https://github.com/user-attachments/assets/f1eef72f-0ca4-4ca7-b1ec-b3cb09e30e9a" />  
+
 차선을 따라 주행하며 지속적으로 LiDAR를 통해 장애물을 인식한다.  
 첫 번째 장애물을 인식하면 장애물1 피하기 모드로 전환되어 피한 뒤 다시금 차선 주행을 실행한다.  
 이후 두 번째 장애물을 검출하면 장애물2 피하기 모드로 전환되고 장애물 피하기가 완료되면 차선 주행을 실행한다.  
@@ -41,5 +43,6 @@
 
 ### 3️⃣ **주차 알고리즘**  
 <img width="295" height="199" alt="Image" src="https://github.com/user-attachments/assets/ceb691d4-5b02-49f3-9ca5-25b672a5ccc8" />  
+
 차량이 직진 이동을 하며 주차 가능 공간을 탐색한다. 만약 우측 초음파 센서에서 측정한 거리가 90cm 이하로 감지되면 우측 전방의 센서의 거리를 탐지한다. 이후 우착 전방 센서에서 측정한 거리 역시 90cm 이하로 감지되면 주차 공간을 찾았다고 가정하여, 주차 주행을 시작한다.  
 주차 주행이 완료된 후 5초 뒤 주차 공간에서 빠져나오는 주행 과정을 실행하고, 완료되면 차량을 정지한다.  
