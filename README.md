@@ -12,4 +12,8 @@
 ---  
 ### Hardware Architecture  
 <img width="389" height="195" alt="Image" src="https://github.com/user-attachments/assets/a5c05f58-4e45-4e7f-b522-e4ccf926fada" />  
+
 <img width="459" height="263" alt="Image" src="https://github.com/user-attachments/assets/64d7aed9-fb4f-4e66-b12f-aa4fd94c9669" />  
+
+### Software Architecture  
+<img width="356" height="188" alt="Image" src="https://github.com/user-attachments/assets/fd6a7736-76c7-4eed-8843-57524fc1c5e1" />  
