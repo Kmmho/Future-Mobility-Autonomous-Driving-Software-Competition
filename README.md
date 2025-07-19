@@ -1,5 +1,4 @@
 # Future-Mobility-Autonomous-Driving-Software-Competition
-[2023] 제2회 미래형자동차 자율주행 SW 경진대회
 
 ## 제2회 미래형자동차 자율주행 SW 경진대회  
 ---  
@@ -12,4 +11,5 @@
 2) 센서 인식 값을 사람의 개입 없이 차량 스스로 위치를 인지하고 제어하는 차량 시스템을 설계한다.
 ---  
 ### Hardware Architecture  
-<img width="389" height="195" alt="Image" src="https://github.com/user-attachments/assets/a5c05f58-4e45-4e7f-b522-e4ccf926fada" />
+<img width="389" height="195" alt="Image" src="https://github.com/user-attachments/assets/a5c05f58-4e45-4e7f-b522-e4ccf926fada" />  
+<img width="459" height="263" alt="Image" src="https://github.com/user-attachments/assets/64d7aed9-fb4f-4e66-b12f-aa4fd94c9669" />  
