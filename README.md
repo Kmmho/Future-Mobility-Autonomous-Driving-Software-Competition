@@ -54,5 +54,13 @@
 
 ---  
 ### ⭐Awards⭐  
-<img width="400" height="500" alt="Image" src="https://github.com/user-attachments/assets/65b3e335-64eb-465c-b60d-b5ad2290e7c7" /><img width="300" height="300" alt="Image" src="https://github.com/user-attachments/assets/e3863865-08a0-4a4d-ba68-4063c571b3bf" />
+<table>
+  <tr>
+    <td style="vertical-align: top; text-align: left;">
+      <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/0bce1185-bcf3-4549-8486-64f6e2ccb5b5" />
+    </td>
+    <td>
+      <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/e3863865-08a0-4a4d-ba68-4063c571b3bf" />
+    </td>
+  </tr>
 ---
