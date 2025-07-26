@@ -54,4 +54,4 @@
 
 ---  
 ### Awards  
-<img width="400" height="500" alt="Image" src="https://github.com/user-attachments/assets/365538dc-b5b3-4722-8a85-0405113f68e1" />
+<img width="400" height="500" alt="Image" src="https://github.com/user-attachments/assets/65b3e335-64eb-465c-b60d-b5ad2290e7c7" />
