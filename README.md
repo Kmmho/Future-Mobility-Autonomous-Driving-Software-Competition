@@ -53,5 +53,5 @@
 4) 주차 주행이 완료된 후 5초 뒤 주차 공간에서 빠져나오는 주행 과정을 실행하고, 완료되면 차량을 정지한다.
 
 ---  
-### Awards  
-<img width="400" height="500" alt="Image" src="https://github.com/user-attachments/assets/65b3e335-64eb-465c-b60d-b5ad2290e7c7" />
+### ⭐Awards⭐  
+<img width="400" height="500" alt="Image" src="https://github.com/user-attachments/assets/65b3e335-64eb-465c-b60d-b5ad2290e7c7" /><img width="400" height="500" alt="Image" src="https://github.com/user-attachments/assets/e3863865-08a0-4a4d-ba68-4063c571b3bf" />
