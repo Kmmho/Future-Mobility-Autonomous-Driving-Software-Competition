@@ -27,7 +27,7 @@
 |장애물 회피|왼쪽과 오른쪽 차선에 각 4개의 slot이 있으며 장애물 하나가 2개의 slot을 차지하여 9가지의 경우의 수 존재|  
 |수직 주차|T자 주차로 IN에서 출발하여 후진으로 수직 주차한 후 2초 이상 정차한 뒤에 빠져나와 출구로 진입하면 미션 성공|
 
-### [Algorithm]  
+## [Algorithm]  
 ### 1️⃣ **차선 주행 알고리즘**  
 <img width="261" height="229" alt="Image" src="https://github.com/user-attachments/assets/02ffbc6e-f1fa-47be-a743-e4b12fa9f268" />  
 
@@ -51,8 +51,9 @@
 2) 만약 우측 초음파 센서에서 측정한 거리가 90cm 이하로 감지되면 우측 전방의 센서의 거리를 탐지한다.
 3) 우착 전방 센서에서 측정한 거리 역시 90cm 이하로 감지되면 주차 공간을 찾았다고 가정하여, 주차 주행을 시작한다.  
 4) 주차 주행이 완료된 후 5초 뒤 주차 공간에서 빠져나오는 주행 과정을 실행하고, 완료되면 차량을 정지한다.
+  
 
-### ⭐Awards⭐  
+## ⭐Awards⭐  
 <table>
   <tr>
     <td style="vertical-align: top; text-align: left;">
