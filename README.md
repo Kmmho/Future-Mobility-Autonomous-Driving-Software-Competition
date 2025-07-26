@@ -52,7 +52,6 @@
 3) 우착 전방 센서에서 측정한 거리 역시 90cm 이하로 감지되면 주차 공간을 찾았다고 가정하여, 주차 주행을 시작한다.  
 4) 주차 주행이 완료된 후 5초 뒤 주차 공간에서 빠져나오는 주행 과정을 실행하고, 완료되면 차량을 정지한다.
 
----  
 ### ⭐Awards⭐  
 <table>
   <tr>
@@ -63,4 +62,3 @@
       <img width="400" height="400" alt="Image" src="https://github.com/user-attachments/assets/e3863865-08a0-4a4d-ba68-4063c571b3bf" />
     </td>
   </tr>
----
