@@ -13,6 +13,9 @@
 
 <img width="459" height="263" alt="Image" src="https://github.com/user-attachments/assets/64d7aed9-fb4f-4e66-b12f-aa4fd94c9669" />  
 
+### 완성된 차량  
+<img width="500" height="400" alt="Image" src="https://github.com/user-attachments/assets/c7a07353-c946-4bbe-bab7-bf3401ab849b" />
+
 ### Software Architecture  
 <img width="361" height="196" alt="Image" src="https://github.com/user-attachments/assets/a076f86d-dd8b-4177-bc85-7a022777ff40" />  
 
